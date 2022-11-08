@@ -5,7 +5,7 @@ public class APP {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("python");
-      System.out.println("aaaa");
+      System.out.println("a");
 
     }
 }
